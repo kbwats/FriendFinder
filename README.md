@@ -4,7 +4,7 @@ A compatibility-based "FriendFinder" application -- basically a dating app. This
 
 ## Technologies Used
 
-<img src="https://github.com/kbwats/ReadMe/blob/master/html.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/css.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/node.png">  <img src="https://github.com/kbwats/ReadMe/blob/master/javascript.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/jquery.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/express.png">
+<img src="https://github.com/kbwats/ReadMe/blob/master/html.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/css.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/node.png">  <img src="https://github.com/kbwats/ReadMe/blob/master/javascript.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/api.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/jquery.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/express.png">
 
 ## Installation
 
