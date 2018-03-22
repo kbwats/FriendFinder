@@ -11,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/kbwats/friendfinder.git"
   },
-  "author": "Stefanie Ding",
-  "license": "ISC",
+  "author": "Kristen Watson",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/kbwats/friendfinder/issues"
   },
